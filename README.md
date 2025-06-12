@@ -11,7 +11,7 @@ A powerful Python script to check the status of subdomains by performing:
 - 🔍 Web Status Check: Check if a web server is active (HTTP/HTTPS)
 - 🧠 IP Owner Detection: WHOIS-based owner lookup
 - ☁️ Hosting Type Heuristic: Detect if hosted on Cloud, CDN, VPS, etc.
-- 📄 Export to TXT, CSV, JSON
+- 📄 Export to `TXT`, `CSV`, `JSON`
 - ⚡ Fast: Multi-threaded scanning
 ---
 ## 🚀 Installation & Usage
