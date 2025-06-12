@@ -49,11 +49,13 @@ Each output line looks like this (also saved in file):
 ```bash
 blog.example.com --> DNS: AKTIF (192.168.1.1) | WEB: HTTPS AKTIF (HTTP 200) | Owner: Cloudflare, Inc. | Hosting: CDN
 ```
+---
 ## 📁 Example Subdomain File
 ```
 www.example.com
 api.example.com
 blog.example.com
 ```
+---
 ## ⚠️ Disclaimer
 This tool is for educational and authorized testing only. Use it responsibly and do not scan domains you don't own or have permission to test.
